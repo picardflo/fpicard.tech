@@ -1,0 +1,15 @@
+indices
+project
+Archive-Update-in-Progress-ubuntu-actiontoad
+
+dists/devel*
+dists/eoan*
+dists/precise*
+dists/trusty*
+dists/xenial*
+
+*.diff.gz
+*.tar.gz
+*.tar.xz
+*.dsc
+
